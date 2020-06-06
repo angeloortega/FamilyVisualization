@@ -1,0 +1,1190 @@
+{
+    "Asia": [
+      {
+        "countryName": "Afghanistan, Islamic Republic of",
+        "countryCode": "AFG",
+        "population": 33370794.0,
+        "gdp": 20050189881.6659,
+        "cpi": 133.057086584945
+      },
+      {
+        "countryName": "Bahrain, Kingdom of",
+        "countryCode": "BHR",
+        "population": 1336075.0,
+        "gdp": 33387712765.9575,
+        "cpi": 108.568240981778
+      },
+      {
+        "countryName": "Bangladesh, People's Republic of",
+        "countryCode": "BGD",
+        "population": 154520167.0,
+        "gdp": 172885454931.453,
+        "cpi": 135.282864010305
+      },
+      {
+        "countryName": "Armenia, Republic of",
+        "countryCode": "ARM",
+        "population": 2912403.0,
+        "gdp": 11609512939.7543,
+        "cpi": 120.280455960631
+      },
+      {
+        "countryName": "Bhutan, Kingdom of",
+        "countryCode": "BTN",
+        "population": 719056.0,
+        "gdp": 1944782820.88824,
+        "cpi": 139.796813022752
+      },
+      {
+        "countryName": "Brunei Darussalam",
+        "countryCode": "BRN",
+        "population": 409769.0,
+        "gdp": 17098342541.4365,
+        "cpi": 102.682167223168
+      },
+      {
+        "countryName": "Myanmar, Union of",
+        "countryCode": "MMR",
+        "population": 52280807.0,
+        "gdp": 65446402659.1687,
+        "cpi": 118.605572145694
+      },
+      {
+        "countryName": "Cambodia, Kingdom of",
+        "countryCode": "KHM",
+        "population": 15274503.0,
+        "gdp": 16777820332.7059,
+        "cpi": 116.075700826637
+      },
+      {
+        "countryName": "Sri Lanka, Democratic Socialist Republic of",
+        "countryCode": "LKA",
+        "population": 20778000.0,
+        "gdp": 79356456990.2891,
+        "cpi": 126.720291216534
+      },
+      {
+        "countryName": "China, People's Republic of",
+        "countryCode": "CHN",
+        "population": 1364270000.0,
+        "gdp": 10482372109961.9,
+        "cpi": 113.225
+      },
+      {
+        "countryName": "Cyprus, Republic of",
+        "countryCode": "CYP",
+        "population": 1152285.0,
+        "gdp": 23359294148.8656,
+        "cpi": 103.907467160884
+      },
+      {
+        "countryName": "Georgia",
+        "countryCode": "GEO",
+        "population": 3719414.0,
+        "gdp": 16509305827.7171,
+        "cpi": 110.251096038355
+      },
+      {
+        "countryName": "Palestinian Territory, Occupied",
+        "countryCode": "PSE",
+        "population": 4173398.0,
+        "gdp": 12715600000.0,
+        "cpi": 109.424166666667
+      },
+      {
+        "countryName": "Hong Kong, Special Administrative Region of China",
+        "countryCode": "HKG",
+        "population": 7229500.0,
+        "gdp": 291459356985.337,
+        "cpi": 119.364448857994
+      },
+      {
+        "countryName": "India, Republic of",
+        "countryCode": "IND",
+        "population": 1295604184.0,
+        "gdp": 2035393459979.46,
+        "cpi": 140.359354053273
+      },
+      {
+        "countryName": "Indonesia, Republic of",
+        "countryCode": "IDN",
+        "population": 255129004.0,
+        "gdp": 890814755233.225,
+        "cpi": 124.386328722285
+      },
+      {
+        "countryName": "Iran, Islamic Republic of",
+        "countryCode": "IRN",
+        "population": 77465753.0,
+        "gdp": 434474616831.914,
+        "cpi": 250.829326840402
+      },
+      {
+        "countryName": "Iraq, Republic of",
+        "countryCode": "IRQ",
+        "population": 34411951.0,
+        "gdp": 234648370497.427,
+        "cpi": 116.910341144268
+      },
+      {
+        "countryName": "Israel, State of",
+        "countryCode": "ISR",
+        "population": 8215700.0,
+        "gdp": 308416982140.362,
+        "cpi": 107.339961166343
+      },
+      {
+        "countryName": "Japan",
+        "countryCode": "JPN",
+        "population": 127276000.0,
+        "gdp": 4848733415523.53,
+        "cpi": 102.791666666667
+      },
+      {
+        "countryName": "Kazakhstan, Republic of",
+        "countryCode": "KAZ",
+        "population": 17288285.0,
+        "gdp": 221415572819.5,
+        "cpi": 128.634589689514
+      },
+      {
+        "countryName": "Jordan, Hashemite Kingdom of",
+        "countryCode": "JOR",
+        "population": 8920049.0,
+        "gdp": 35826925774.6479,
+        "cpi": 118.610881901771
+      },
+      {
+        "countryName": "Korea, Republic of",
+        "countryCode": "KOR",
+        "population": 50746659.0,
+        "gdp": 1411333926201.24,
+        "cpi": 109.04
+      },
+      {
+        "countryName": "Kuwait, State of",
+        "countryCode": "KWT",
+        "population": 3690942.0,
+        "gdp": 162631763879.129,
+        "cpi": 114.421944922547
+      },
+      {
+        "countryName": "Kyrgyz Republic",
+        "countryCode": "KGZ",
+        "population": 5835500.0,
+        "gdp": 7468096566.71158,
+        "cpi": 137.137679303802
+      },
+      {
+        "countryName": "Lao People's Democratic Republic",
+        "countryCode": "LAO",
+        "population": 6639756.0,
+        "gdp": 13268458231.9295,
+        "cpi": 124.228221419446
+      },
+      {
+        "countryName": "Lebanon, Lebanese Republic",
+        "countryCode": "LBN",
+        "population": 6262410.0,
+        "gdp": 47833413749.1211,
+        "cpi": 118.969765732406
+      },
+      {
+        "countryName": "Macao, Special Administrative Region of China",
+        "countryCode": "MAC",
+        "population": 590208.0,
+        "gdp": 55347998647.8196,
+        "cpi": 125.60248447205
+      },
+      {
+        "countryName": "Malaysia",
+        "countryCode": "MYS",
+        "population": 29866559.0,
+        "gdp": 338061963396.376,
+        "cpi": 110.483333333333
+      },
+      {
+        "countryName": "Maldives, Republic of",
+        "countryCode": "MDV",
+        "population": 435015.0,
+        "gdp": 3697351594.22359,
+        "cpi": 132.188886268351
+      },
+      {
+        "countryName": "Mongolia",
+        "countryCode": "MNG",
+        "population": 2940108.0,
+        "gdp": 12226514722.0861,
+        "cpi": 154.52992281655
+      },
+      {
+        "countryName": "Oman, Sultanate of",
+        "countryCode": "OMN",
+        "population": 4027260.0,
+        "gdp": 81034395058.5175,
+        "cpi": 109.5325863973
+      },
+      {
+        "countryName": "Nepal, State of",
+        "countryCode": "NPL",
+        "population": 26906926.0,
+        "gdp": 20002968837.9471,
+        "cpi": 141.331056839287
+      },
+      {
+        "countryName": "Pakistan, Islamic Republic of",
+        "countryCode": "PAK",
+        "population": 195306825.0,
+        "gdp": 244360888750.807,
+        "cpi": 141.70234380669
+      },
+      {
+        "countryName": "Philippines, Republic of the",
+        "countryCode": "PHL",
+        "population": 100513138.0,
+        "gdp": 284584522898.872,
+        "cpi": 115.795297372061
+      },
+      {
+        "countryName": "Timor-Leste, Democratic Republic of",
+        "countryCode": "TLS",
+        "population": 1174331.0,
+        "gdp": 1450600000.0,
+        "cpi": 141.675790819044
+      },
+      {
+        "countryName": "Qatar, State of",
+        "countryCode": "QAT",
+        "population": 2459198.0,
+        "gdp": 206224725274.725,
+        "cpi": 110.370306071673
+      },
+      {
+        "countryName": "Russian Federation",
+        "countryCode": "RUS",
+        "population": 143819666.0,
+        "gdp": 2063662665171.89,
+        "cpi": 131.153885585401
+      },
+      {
+        "countryName": "Saudi Arabia, Kingdom of",
+        "countryCode": "SAU",
+        "population": 30916994.0,
+        "gdp": 756350347333.334,
+        "cpi": 115.70470949785
+      },
+      {
+        "countryName": "Singapore, Republic of",
+        "countryCode": "SGP",
+        "population": 5469724.0,
+        "gdp": 308142766948.149,
+        "cpi": 113.773997159171
+      },
+      {
+        "countryName": "Vietnam, Socialist Republic of",
+        "countryCode": "VNM",
+        "population": 91714595.0,
+        "gdp": 186204652922.262,
+        "cpi": 143.644031821781
+      },
+      {
+        "countryName": "Thailand, Kingdom of",
+        "countryCode": "THA",
+        "population": 68438730.0,
+        "gdp": 406521561093.357,
+        "cpi": 111.345922613126
+      },
+      {
+        "countryName": "United Arab Emirates",
+        "countryCode": "ARE",
+        "population": 9214175.0,
+        "gdp": 403197682886.317,
+        "cpi": 105.071620061744
+      },
+      {
+        "countryName": "Turkey, Republic of",
+        "countryCode": "TUR",
+        "population": 77231907.0,
+        "gdp": 934167809301.667,
+        "cpi": 135.661434977578
+      }
+    ],
+    "Europe": [
+      {
+        "countryName": "Albania, Republic of",
+        "countryCode": "ALB",
+        "population": 2889104.0,
+        "gdp": 13228244357.1813,
+        "cpi": 109.355409796574
+      },
+      {
+        "countryName": "Austria, Republic of",
+        "countryCode": "AUT",
+        "population": 8546356.0,
+        "gdp": 441885415805.825,
+        "cpi": 109.684140345029
+      },
+      {
+        "countryName": "Belgium, Kingdom of",
+        "countryCode": "BEL",
+        "population": 11209057.0,
+        "gdp": 531075861047.287,
+        "cpi": 108.02411540946
+      },
+      {
+        "countryName": "Bosnia and Herzegovina",
+        "countryCode": "BIH",
+        "population": 3482104.0,
+        "gdp": 18558343508.3435,
+        "cpi": 104.725
+      },
+      {
+        "countryName": "Bulgaria, Republic of",
+        "countryCode": "BGR",
+        "population": 7223938.0,
+        "gdp": 56732006512.0065,
+        "cpi": 106.719036964958
+      },
+      {
+        "countryName": "Croatia, Republic of",
+        "countryCode": "HRV",
+        "population": 4238389.0,
+        "gdp": 57080369367.8021,
+        "cpi": 107.858333333333
+      },
+      {
+        "countryName": "Czech Republic",
+        "countryCode": "CZE",
+        "population": 10525347.0,
+        "gdp": 207818330723.835,
+        "cpi": 107.170252572498
+      },
+      {
+        "countryName": "Denmark, Kingdom of",
+        "countryCode": "DNK",
+        "population": 5643475.0,
+        "gdp": 352993633221.281,
+        "cpi": 106.656683909611
+      },
+      {
+        "countryName": "Estonia, Republic of",
+        "countryCode": "EST",
+        "population": 1314545.0,
+        "gdp": 26224622450.8302,
+        "cpi": 111.988473995046
+      },
+      {
+        "countryName": "Finland, Republic of",
+        "countryCode": "FIN",
+        "population": 5461512.0,
+        "gdp": 272609288689.575,
+        "cpi": 109.016209008709
+      },
+      {
+        "countryName": "France, French Republic",
+        "countryCode": "FRA",
+        "population": 66312067.0,
+        "gdp": 2849305322684.76,
+        "cpi": 105.546879837096
+      },
+      {
+        "countryName": "Germany, Federal Republic of",
+        "countryCode": "DEU",
+        "population": 80982500.0,
+        "gdp": 3890606893346.69,
+        "cpi": 106.65055421285
+      },
+      {
+        "countryName": "Greece, Hellenic Republic",
+        "countryCode": "GRC",
+        "population": 10892413.0,
+        "gdp": 237029579260.722,
+        "cpi": 102.551527232335
+      },
+      {
+        "countryName": "Hungary, Republic of",
+        "countryCode": "HUN",
+        "population": 9866468.0,
+        "gdp": 140118140454.711,
+        "cpi": 111.519327360826
+      },
+      {
+        "countryName": "Iceland, Republic of",
+        "countryCode": "ISL",
+        "population": 327386.0,
+        "gdp": 17178962757.4324,
+        "cpi": 115.95517263717
+      },
+      {
+        "countryName": "Ireland",
+        "countryCode": "IRL",
+        "population": 4657740.0,
+        "gdp": 258099015103.504,
+        "cpi": 105.045989856442
+      },
+      {
+        "countryName": "Italy, Italian Republic",
+        "countryCode": "ITA",
+        "population": 60789140.0,
+        "gdp": 2151732868243.21,
+        "cpi": 107.416048662612
+      },
+      {
+        "countryName": "Latvia, Republic of",
+        "countryCode": "LVA",
+        "population": 1993782.0,
+        "gdp": 31419072947.902,
+        "cpi": 107.383357383357
+      },
+      {
+        "countryName": "Lithuania, Republic of",
+        "countryCode": "LTU",
+        "population": 2932367.0,
+        "gdp": 48545251795.561,
+        "cpi": 108.587841666667
+      },
+      {
+        "countryName": "Luxembourg, Grand Duchy of",
+        "countryCode": "LUX",
+        "population": 556319.0,
+        "gdp": 66327344188.889,
+        "cpi": 108.685935526306
+      },
+      {
+        "countryName": "Malta, Republic of",
+        "countryCode": "MLT",
+        "population": 434558.0,
+        "gdp": 11217780149.3338,
+        "cpi": 106.984030393237
+      },
+      {
+        "countryName": "Moldova, Republic of",
+        "countryCode": "MDA",
+        "population": 2856950.0,
+        "gdp": 7983271110.60446,
+        "cpi": 123.826144416768
+      },
+      {
+        "countryName": "Montenegro, Republic of",
+        "countryCode": "MNE",
+        "population": 621810.0,
+        "gdp": 4587928884.17142,
+        "cpi": 109.332618412118
+      },
+      {
+        "countryName": "Netherlands, Kingdom of the",
+        "countryCode": "NLD",
+        "population": 16865008.0,
+        "gdp": 879635084124.987,
+        "cpi": 108.504856794828
+      },
+      {
+        "countryName": "Norway, Kingdom of",
+        "countryCode": "NOR",
+        "population": 5137232.0,
+        "gdp": 499338534779.159,
+        "cpi": 106.304207119741
+      },
+      {
+        "countryName": "Poland, Republic of",
+        "countryCode": "POL",
+        "population": 38011735.0,
+        "gdp": 545075908845.995,
+        "cpi": 109.2
+      },
+      {
+        "countryName": "Portugal, Portuguese Republic",
+        "countryCode": "PRT",
+        "population": 10401062.0,
+        "gdp": 229629822121.601,
+        "cpi": 106.522866162199
+      },
+      {
+        "countryName": "Romania",
+        "countryCode": "ROU",
+        "population": 19908979.0,
+        "gdp": 199493490982.921,
+        "cpi": 114.886207875922
+      },
+      {
+        "countryName": "San Marino, Republic of",
+        "countryCode": "SMR",
+        "population": 32948.0,
+        "gdp": 1845561894.65304,
+        "cpi": 107.76105417278
+      },
+      {
+        "countryName": "Serbia, Republic of",
+        "countryCode": "SRB",
+        "population": 7130576.0,
+        "gdp": 44210806365.6817,
+        "cpi": 131.137397634213
+      },
+      {
+        "countryName": "Slovakia (Slovak Republic)",
+        "countryCode": "SVK",
+        "population": 5418649.0,
+        "gdp": 100948236941.182,
+        "cpi": 109.091413049504
+      },
+      {
+        "countryName": "Slovenia, Republic of",
+        "countryCode": "SVN",
+        "population": 2061980.0,
+        "gdp": 49904928335.3069,
+        "cpi": 106.507381928923
+      },
+      {
+        "countryName": "Spain, Kingdom of",
+        "countryCode": "ESP",
+        "population": 46480882.0,
+        "gdp": 1376910811040.88,
+        "cpi": 107.051909386894
+      },
+      {
+        "countryName": "Sweden, Kingdom of",
+        "countryCode": "SWE",
+        "population": 9696110.0,
+        "gdp": 573817719109.402,
+        "cpi": 103.643306416286
+      },
+      {
+        "countryName": "Switzerland, Swiss Confederation",
+        "countryCode": "CHE",
+        "population": 8188649.0,
+        "gdp": 709182559935.301,
+        "cpi": 99.3040942513369
+      },
+      {
+        "countryName": "Ukraine",
+        "countryCode": "UKR",
+        "population": 45271947.0,
+        "gdp": 133503411375.739,
+        "cpi": 121.45510632712
+      },
+      {
+        "countryName": "Macedonia, The Former Yugoslav Republic of",
+        "countryCode": "MKD",
+        "population": 2077775.0,
+        "gdp": 11362272837.8818,
+        "cpi": 110.029264389735
+      },
+      {
+        "countryName": "United Kingdom of Great Britain & Northern Ireland",
+        "countryCode": "GBR",
+        "population": 64602298.0,
+        "gdp": 3022827781881.39,
+        "cpi": 111.785688287108
+      }
+    ],
+    "Africa": [
+      {
+        "countryName": "Algeria, People's Democratic Republic of",
+        "countryCode": "DZA",
+        "population": 38923687.0,
+        "gdp": 213810022462.428,
+        "cpi": 120.949252489662
+      },
+      {
+        "countryName": "Angola, Republic of",
+        "countryCode": "AGO",
+        "population": 26941779.0,
+        "gdp": 126776874216.703,
+        "cpi": 146.039374789764
+      },
+      {
+        "countryName": "Botswana, Republic of",
+        "countryCode": "BWA",
+        "population": 2088614.0,
+        "gdp": 16259445052.5565,
+        "cpi": 128.936792108148
+      },
+      {
+        "countryName": "Burundi, Republic of",
+        "countryCode": "BDI",
+        "population": 9844297.0,
+        "gdp": 3093647226.8107,
+        "cpi": 145.920531971304
+      },
+      {
+        "countryName": "Cameroon, Republic of",
+        "countryCode": "CMR",
+        "population": 22681858.0,
+        "gdp": 34942948737.3967,
+        "cpi": 110.134323431375
+      },
+      {
+        "countryName": "Cape Verde, Republic of",
+        "countryCode": "CPV",
+        "population": 518269.0,
+        "gdp": 1858121723.24993,
+        "cpi": 108.485995457987
+      },
+      {
+        "countryName": "Chad, Republic of",
+        "countryCode": "TCD",
+        "population": 13663559.0,
+        "gdp": 13922223233.5184,
+        "cpi": 111.802483231055
+      },
+      {
+        "countryName": "Congo, Republic of the",
+        "countryCode": "COG",
+        "population": 4736974.0,
+        "gdp": 14177437982.2619,
+        "cpi": 111.636892973776
+      },
+      {
+        "countryName": "Benin, Republic of",
+        "countryCode": "BEN",
+        "population": 10286842.0,
+        "gdp": 9707432015.61441,
+        "cpi": 109.511046133853
+      },
+      {
+        "countryName": "Ethiopia, Federal Democratic Republic of",
+        "countryCode": "ETH",
+        "population": 98094253.0,
+        "gdp": 55612228233.5179,
+        "cpi": 189.83987293274
+      },
+      {
+        "countryName": "Djibouti, Republic of",
+        "countryCode": "DJI",
+        "population": 898696.0,
+        "gdp": 1588000000.0,
+        "cpi": 114.850215642849
+      },
+      {
+        "countryName": "Gabon, Gabonese Republic",
+        "countryCode": "GAB",
+        "population": 1883800.0,
+        "gdp": 18179717776.1597,
+        "cpi": 109.327533338087
+      },
+      {
+        "countryName": "Gambia, Republic of the",
+        "countryCode": "GMB",
+        "population": 2024042.0,
+        "gdp": 833240810.182065,
+        "cpi": 122.350500544801
+      },
+      {
+        "countryName": "Ghana, Republic of",
+        "countryCode": "GHA",
+        "population": 27224472.0,
+        "gdp": 38616536131.648,
+        "cpi": 152.987622038507
+      },
+      {
+        "countryName": "Guinea, Republic of",
+        "countryCode": "GIN",
+        "population": 11150977.0,
+        "gdp": 8791353804.84288,
+        "cpi": 171.645971046725
+      },
+      {
+        "countryName": "Cote d'Ivoire, Republic of",
+        "countryCode": "CIV",
+        "population": 22647683.0,
+        "gdp": 35372603446.2605,
+        "cpi": 109.517601043024
+      },
+      {
+        "countryName": "Kenya, Republic of",
+        "countryCode": "KEN",
+        "population": 46699981.0,
+        "gdp": 61445345999.0765,
+        "cpi": 140.914223874277
+      },
+      {
+        "countryName": "Lesotho, Kingdom of",
+        "countryCode": "LSO",
+        "population": 2043437.0,
+        "gdp": 2614566292.25907,
+        "cpi": 123.171330271413
+      },
+      {
+        "countryName": "Liberia, Republic of",
+        "countryCode": "LBR",
+        "population": 4359505.0,
+        "gdp": 2013000000.0,
+        "cpi": 136.932405367735
+      },
+      {
+        "countryName": "Madagascar, Republic of",
+        "countryCode": "MDG",
+        "population": 23589887.0,
+        "gdp": 10673516672.6664,
+        "cpi": 130.721786437247
+      },
+      {
+        "countryName": "Malawi, Republic of",
+        "countryCode": "MWI",
+        "population": 16289540.0,
+        "gdp": 6054750320.3278,
+        "cpi": 206.714891962825
+      },
+      {
+        "countryName": "Mali, Republic of",
+        "countryCode": "MLI",
+        "population": 16934220.0,
+        "gdp": 14388360064.1162,
+        "cpi": 108.742760617761
+      },
+      {
+        "countryName": "Mauritania, Islamic Republic of",
+        "countryCode": "MRT",
+        "population": 3930896.0,
+        "gdp": 5391475277.24326,
+        "cpi": 119.515680170379
+      },
+      {
+        "countryName": "Mauritius, Republic of",
+        "countryCode": "MUS",
+        "population": 1260934.0,
+        "gdp": 12803445933.5894,
+        "cpi": 118.241276047082
+      },
+      {
+        "countryName": "Morocco, Kingdom of",
+        "countryCode": "MAR",
+        "population": 34192347.0,
+        "gdp": 110081248587.369,
+        "cpi": 104.595660294694
+      },
+      {
+        "countryName": "Mozambique, Republic of",
+        "countryCode": "MOZ",
+        "population": 26286163.0,
+        "gdp": 16961127045.8266,
+        "cpi": 121.162039338209
+      },
+      {
+        "countryName": "Namibia, Republic of",
+        "countryCode": "NAM",
+        "population": 2273430.0,
+        "gdp": 12786078003.6304,
+        "cpi": 124.672121316087
+      },
+      {
+        "countryName": "Niger, Republic of",
+        "countryCode": "NER",
+        "population": 19240157.0,
+        "gdp": 8229730066.64442,
+        "cpi": 104.956028601956
+      },
+      {
+        "countryName": "Nigeria, Federal Republic of",
+        "countryCode": "NGA",
+        "population": 176404902.0,
+        "gdp": 568498937588.035,
+        "cpi": 145.796037028537
+      },
+      {
+        "countryName": "Guinea-Bissau, Republic of",
+        "countryCode": "GNB",
+        "population": 1692439.0,
+        "gdp": 1055186196.27993,
+        "cpi": 106.940486169321
+      },
+      {
+        "countryName": "Rwanda, Republic of",
+        "countryCode": "RWA",
+        "population": 11083635.0,
+        "gdp": 8016288347.03577,
+        "cpi": 122.865576817479
+      },
+      {
+        "countryName": "Sao Tome and Principe, Democratic Republic of",
+        "countryCode": "STP",
+        "population": 195727.0,
+        "gdp": 348899846.089383,
+        "cpi": 146.288979534836
+      },
+      {
+        "countryName": "Senegal, Republic of",
+        "countryCode": "SEN",
+        "population": 14174731.0,
+        "gdp": 15304363138.1804,
+        "cpi": 104.467063053734
+      },
+      {
+        "countryName": "Seychelles, Republic of",
+        "countryCode": "SYC",
+        "population": 91359.0,
+        "gdp": 1422530791.5588,
+        "cpi": 116.206421540945
+      },
+      {
+        "countryName": "Sierra Leone, Republic of",
+        "countryCode": "SLE",
+        "population": 7017144.0,
+        "gdp": 5015180976.63457,
+        "cpi": 155.208842310997
+      },
+      {
+        "countryName": "South Africa, Republic of",
+        "countryCode": "ZAF",
+        "population": 54545991.0,
+        "gdp": 351119102947.143,
+        "cpi": 124.429320856373
+      },
+      {
+        "countryName": "Sudan, Republic of",
+        "countryCode": "SDN",
+        "population": 37977655.0,
+        "gdp": 82151588418.8325,
+        "cpi": 298.509155817362
+      },
+      {
+        "countryName": "Swaziland, Kingdom of",
+        "countryCode": "SWZ",
+        "population": 1095021.0,
+        "gdp": 4377293816.28535,
+        "cpi": 129.027249154135
+      },
+      {
+        "countryName": "Togo, Togolese Republic",
+        "countryCode": "TGO",
+        "population": 7137997.0,
+        "gdp": 4482880424.33988,
+        "cpi": 108.380198019802
+      },
+      {
+        "countryName": "Tunisia, Tunisian Republic",
+        "countryCode": "TUN",
+        "population": 11063201.0,
+        "gdp": 47587913058.8443,
+        "cpi": 120.863909272848
+      },
+      {
+        "countryName": "Uganda, Republic of",
+        "countryCode": "UGA",
+        "population": 36912148.0,
+        "gdp": 27295207927.5612,
+        "cpi": 148.844186806164
+      },
+      {
+        "countryName": "Egypt, Arab Republic of",
+        "countryCode": "EGY",
+        "population": 90424654.0,
+        "gdp": 305529656458.438,
+        "cpi": 142.082143989851
+      },
+      {
+        "countryName": "Tanzania, United Republic of",
+        "countryCode": "TZA",
+        "population": 49959822.0,
+        "gdp": 48197218326.7942,
+        "cpi": 149.657870726625
+      },
+      {
+        "countryName": "Burkina Faso",
+        "countryCode": "BFA",
+        "population": 17586017.0,
+        "gdp": 12377391462.6377,
+        "cpi": 106.990856192851
+      },
+      {
+        "countryName": "Zambia, Republic of",
+        "countryCode": "ZMB",
+        "population": 15399753.0,
+        "gdp": 27150630607.2032,
+        "cpi": 130.821970572374
+      }
+    ],
+    "North America": [
+      {
+        "countryName": "Antigua and Barbuda",
+        "countryCode": "ATG",
+        "population": 92562.0,
+        "gdp": 1280133333.33333,
+        "cpi": 109.261003713412
+      },
+      {
+        "countryName": "Bahamas, Commonwealth of the",
+        "countryCode": "BHS",
+        "population": 370633.0,
+        "gdp": 10843800000.0,
+        "cpi": 107.200834842901
+      },
+      {
+        "countryName": "Barbados",
+        "countryCode": "BRB",
+        "population": 284825.0,
+        "gdp": 4608350000.0,
+        "cpi": 118.654541214877
+      },
+      {
+        "countryName": "Belize",
+        "countryCode": "BLZ",
+        "population": 353366.0,
+        "gdp": 1706497950.0,
+        "cpi": 99.1368179614907
+      },
+      {
+        "countryName": "Canada",
+        "countryCode": "CAN",
+        "population": 35437435.0,
+        "gdp": 1792883225804.38,
+        "cpi": 107.462793360045
+      },
+      {
+        "countryName": "Costa Rica, Republic of",
+        "countryCode": "CRI",
+        "population": 4795396.0,
+        "gdp": 50656002895.8763,
+        "cpi": 120.540852639769
+      },
+      {
+        "countryName": "Dominica, Commonwealth of",
+        "countryCode": "DMA",
+        "population": 71085.0,
+        "gdp": 523666347.407407,
+        "cpi": 104.557569382712
+      },
+      {
+        "countryName": "Dominican Republic",
+        "countryCode": "DOM",
+        "population": 10165178.0,
+        "gdp": 65231032303.2418,
+        "cpi": 121.435908849663
+      },
+      {
+        "countryName": "El Salvador, Republic of",
+        "countryCode": "SLV",
+        "population": 6295128.0,
+        "gdp": 25054230000.0,
+        "cpi": 108.986744922184
+      },
+      {
+        "countryName": "Grenada",
+        "countryCode": "GRD",
+        "population": 108902.0,
+        "gdp": 911481481.481481,
+        "cpi": 104.472159639523
+      },
+      {
+        "countryName": "Guatemala, Republic of",
+        "countryCode": "GTM",
+        "population": 15923243.0,
+        "gdp": 58722323918.1604,
+        "cpi": 118.952588805761
+      },
+      {
+        "countryName": "Haiti, Republic of",
+        "countryCode": "HTI",
+        "population": 10549008.0,
+        "gdp": 8776360623.29898,
+        "cpi": 127.532284744467
+      },
+      {
+        "countryName": "Honduras, Republic of",
+        "countryCode": "HND",
+        "population": 8955589.0,
+        "gdp": 19756494434.7031,
+        "cpi": 125.346249905396
+      },
+      {
+        "countryName": "Jamaica",
+        "countryCode": "JAM",
+        "population": 2875136.0,
+        "gdp": 13897723431.3942,
+        "cpi": 136.108085680204
+      },
+      {
+        "countryName": "Mexico, United Mexican States",
+        "countryCode": "MEX",
+        "population": 120355128.0,
+        "gdp": 1298461494903.14,
+        "cpi": 116.247985579977
+      },
+      {
+        "countryName": "Nicaragua, Republic of",
+        "countryCode": "NIC",
+        "population": 6142733.0,
+        "gdp": 11880438824.4494,
+        "cpi": 131.616515393998
+      },
+      {
+        "countryName": "Panama, Republic of",
+        "countryCode": "PAN",
+        "population": 3901315.0,
+        "gdp": 49165773100.0,
+        "cpi": 119.486407922252
+      },
+      {
+        "countryName": "Saint Kitts and Nevis, Federation of",
+        "countryCode": "KNA",
+        "population": 50774.0,
+        "gdp": 847778185.185185,
+        "cpi": 110.526488895467
+      },
+      {
+        "countryName": "Saint Lucia",
+        "countryCode": "LCA",
+        "population": 178296.0,
+        "gdp": 1551921037.03704,
+        "cpi": 112.461152565903
+      },
+      {
+        "countryName": "Saint Vincent and the Grenadines",
+        "countryCode": "VCT",
+        "population": 108861.0,
+        "gdp": 727230734.814815,
+        "cpi": 106.926514399206
+      },
+      {
+        "countryName": "Trinidad and Tobago, Republic of",
+        "countryCode": "TTO",
+        "population": 1362342.0,
+        "gdp": 26175952941.9107,
+        "cpi": 127.679550111995
+      },
+      {
+        "countryName": "United States of America",
+        "countryCode": "USA",
+        "population": 318301008.0,
+        "gdp": 17393103000000.0,
+        "cpi": 108.566932118964
+      }
+    ],
+    "South America": [
+      {
+        "countryName": "Argentina, Argentine Republic",
+        "countryCode": "ARG",
+        "population": 42669500.0,
+        "gdp": 526319673731.638,
+        "cpi": 105.5
+      },
+      {
+        "countryName": "Bolivia, Republic of",
+        "countryCode": "BOL",
+        "population": 10706517.0,
+        "gdp": 32996187988.4226,
+        "cpi": 128.435425807178
+      },
+      {
+        "countryName": "Brazil, Federative Republic of",
+        "countryCode": "BRA",
+        "population": 202763735.0,
+        "gdp": 2455993200170.0,
+        "cpi": 126.925828291658
+      },
+      {
+        "countryName": "Chile, Republic of",
+        "countryCode": "CHL",
+        "population": 17758959.0,
+        "gdp": 260990299051.116,
+        "cpi": 113.116672747442
+      },
+      {
+        "countryName": "Colombia, Republic of",
+        "countryCode": "COL",
+        "population": 46969209.0,
+        "gdp": 378195707612.393,
+        "cpi": 111.987819539255
+      },
+      {
+        "countryName": "Ecuador, Republic of",
+        "countryCode": "ECU",
+        "population": 15951838.0,
+        "gdp": 101726331000.0,
+        "cpi": 116.841415876166
+      },
+      {
+        "countryName": "Paraguay, Republic of",
+        "countryCode": "PRY",
+        "population": 6599526.0,
+        "gdp": 30881166852.3116,
+        "cpi": 121.040974529347
+      },
+      {
+        "countryName": "Peru, Republic of",
+        "countryCode": "PER",
+        "population": 30090359.0,
+        "gdp": 201049665375.132,
+        "cpi": 113.719374563959
+      },
+      {
+        "countryName": "Suriname, Republic of",
+        "countryCode": "SUR",
+        "population": 553273.0,
+        "gdp": 5240606060.60606,
+        "cpi": 130.245749019005
+      },
+      {
+        "countryName": "Uruguay, Eastern Republic of",
+        "countryCode": "URY",
+        "population": 3400434.0,
+        "gdp": 57236013077.5187,
+        "cpi": 138.129149024256
+      },
+      {
+        "countryName": "Venezuela, Bolivarian Republic of",
+        "countryCode": "VEN",
+        "population": 30045134.0,
+        "gdp": 482359318767.703,
+        "cpi": 348.167562329311
+      }
+    ],
+    "Oceania": [
+      {
+        "countryName": "Australia, Commonwealth of",
+        "countryCode": "AUS",
+        "population": 23475686.0,
+        "gdp": 1459597906912.7,
+        "cpi": 110.379812695109
+      },
+      {
+        "countryName": "Solomon Islands",
+        "countryCode": "SLB",
+        "population": 587079.0,
+        "gdp": 1156563122.85602,
+        "cpi": 126.007882882883
+      },
+      {
+        "countryName": "Fiji, Republic of the Fiji Islands",
+        "countryCode": "FJI",
+        "population": 866453.0,
+        "gdp": 4469573275.40532,
+        "cpi": 114.787662047385
+      },
+      {
+        "countryName": "Vanuatu, Republic of",
+        "countryCode": "VUT",
+        "population": 263888.0,
+        "gdp": 814954306.971033,
+        "cpi": 104.545146686576
+      },
+      {
+        "countryName": "New Zealand",
+        "countryCode": "NZL",
+        "population": 4509700.0,
+        "gdp": 200696291789.952,
+        "cpi": 107.695769576958
+      },
+      {
+        "countryName": "Papua New Guinea, Independent State of",
+        "countryCode": "PNG",
+        "population": 7946731.0,
+        "gdp": 23003575201.1051,
+        "cpi": 120.563227728134
+      },
+      {
+        "countryName": "Tonga, Kingdom of",
+        "countryCode": "TON",
+        "population": 101028.0,
+        "gdp": 443911052.254042,
+        "cpi": 111.035851559382
+      },
+      {
+        "countryName": "Samoa, Independent State of",
+        "countryCode": "WSM",
+        "population": 192221.0,
+        "gdp": 803589511.754069,
+        "cpi": 107.569225667385
+      }
+    ]
+  }
